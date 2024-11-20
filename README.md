@@ -1,4 +1,7 @@
-## Hi there 👋
+## Hello there 👋
+
+- 👨‍🎓 I'm a student
+- 📚 I'm currently learning Python3, Cloud & DevOps
 
 <!--
 **darth-gitious/darth-gitious** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
